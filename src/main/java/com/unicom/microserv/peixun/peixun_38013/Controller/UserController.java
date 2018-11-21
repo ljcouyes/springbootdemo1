@@ -1,4 +1,4 @@
-package com.unicom.microserv.peixun.peixun_38016.Controller;
+package com.unicom.microserv.peixun.peixun_38013.Controller;
 
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
@@ -10,7 +10,7 @@ import java.util.List;
 
 @Api(value="用户controller",tags={"用户操作接口"})
 @RestController
-@RequestMapping("/peixun/38016/")
+@RequestMapping("/peixun/38013/")
 public class UserController {
 
     @RequestMapping(value = "users", method = RequestMethod.GET)

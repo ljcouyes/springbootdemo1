@@ -1,4 +1,4 @@
-package com.unicom.microserv.peixun.peixun_38016.config;
+package com.unicom.microserv.peixun.peixun_38013.config;
 
 import com.google.common.collect.Sets;
 import org.springframework.context.annotation.Bean;

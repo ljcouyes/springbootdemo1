@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.unicom.microserv.peixun</groupId>
-    <artifactId>peixun_38016</artifactId>
+    <artifactId>peixun_38013</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>peixun_38016</name>
+    <name>peixun_38013</name>
     <description>Demo project for Spring Boot</description>
 
     <parent>

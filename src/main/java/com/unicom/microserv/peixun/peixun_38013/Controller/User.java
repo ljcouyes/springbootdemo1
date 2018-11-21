@@ -1,4 +1,4 @@
-package com.unicom.microserv.peixun.peixun_38016.Controller;
+package com.unicom.microserv.peixun.peixun_38013.Controller;
 
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;
@@ -6,11 +6,11 @@ import io.swagger.annotations.ApiModelProperty;
 @ApiModel(value="user对象",description="用户对象user")
 public class User {
     private Long id;
-    @ApiModelProperty(value="用户名",name="username",example="zuoww")
+    @ApiModelProperty(value="用户名",name="username",example="lanjch")
     private String name;
     @ApiModelProperty(value="年龄",name="age",example="666")
     private int age;
-    @ApiModelProperty(value="邮箱",name="email",example="zuoww@neusoft.com")
+    @ApiModelProperty(value="邮箱",name="email",example="lanjch@neusoft.com")
     private String email;
 
     public Long getId() {

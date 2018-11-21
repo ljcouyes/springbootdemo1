@@ -1,4 +1,4 @@
-package com.unicom.microserv.peixun.peixun_38016;
+package com.unicom.microserv.peixun.peixun_38013;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class Peixun38016ApplicationTests {
+public class Peixun38013ApplicationTests {
 
 	@Test
 	public void contextLoads() {
